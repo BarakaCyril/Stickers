@@ -50,11 +50,6 @@
     top: 70px;
 }
 
-.about-text{
-    font-weight: bold;
-    font-size: 1.2rem;
-}
-
 .sticker-button{
     background-color: var(--secondary-color);
     font-size: 1.1rem;
