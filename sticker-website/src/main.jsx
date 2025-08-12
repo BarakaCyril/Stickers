@@ -4,6 +4,7 @@ import './index.css'
 import Hero from './Hero.jsx'
 import About from './About.jsx'
 import Highlights from './Highlights.jsx'
+import Prices from './prices.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -11,7 +12,7 @@ createRoot(document.getElementById('root')).render(
       <Hero/>
       <About/>
       <Highlights/>
-
+      <Prices/>
     </>
     
   </StrictMode>,
